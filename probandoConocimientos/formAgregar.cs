@@ -26,6 +26,7 @@ namespace probandoConocimientos
             this.disco = disco;
             Text = "Modificar";
             toolTip1.Active = false;
+            //le agrego este comentario desde mi rama desarrollo para hacer el merge en mi main despues...
         }
 
         private bool soloLetras(string cadena)
