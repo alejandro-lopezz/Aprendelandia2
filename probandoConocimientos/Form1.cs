@@ -14,7 +14,7 @@ namespace probandoConocimientos
 {
     public partial class Form1 : Form
     {
-        //Le agrego un comentario... actualmente estoy en mi rama desarrollo...
+        //Le agrego un comentario... actualmente estoy en mi rama desarrollo..., sera o no sera?
         private List<Disco> listaDiscos;
         public Form1()
         {
